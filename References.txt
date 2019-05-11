@@ -1,2 +1,4 @@
 https://gist.github.com/dtalley11/8789538
 https://github.com/Zarel/Pokemon-Showdown-Client
+Also visit us in the Dev chatroom:
+https://psim.us/dev
