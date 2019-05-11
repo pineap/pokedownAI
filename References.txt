@@ -1,2 +1,3 @@
 https://gist.github.com/dtalley11/8789538
 https://github.com/Zarel/Pokemon-Showdown-Client
+https://github.com/Zarel/Pokemon-Showdown-Client/blob/master/src/battle-tooltips.ts line 355
