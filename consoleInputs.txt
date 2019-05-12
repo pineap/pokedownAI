@@ -1,0 +1,5 @@
+app.send('/leave <CHATROOM_NAME>'); #Chatroom names should start with lowercase letter.
+app.send('/join <CHATROOM_NAME>');
+app.send('/search gen7randombattle');
+room.sendDecision('choose move 3');
+room.sendDecision('switch 2');
