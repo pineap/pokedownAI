@@ -3,3 +3,4 @@ app.send('/join <CHATROOM_NAME>');
 app.send('/search gen7randombattle');
 room.sendDecision('choose move 3');
 room.sendDecision('switch 2');
+app.send('/challenge pineap, gen7randombattle')
